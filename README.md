@@ -1,4 +1,4 @@
-# Embassy Management System (CMPS 244 MWF @ 8:00)
+# Embassy Management System
 
 ## Group Name and Members
 ### Peter Chen’s Group:
@@ -53,7 +53,3 @@ In conclusion, the database system described in this document will store and man
 
 ## Code Overview
 The system is implemented using MySQL. The SQL code includes the creation of tables like `Department`, `Employee`, `Address`, `Visitor`, `Apply_for`, `Visa`, `Resident`, `Property`, and `Dependent`. It also contains commands to populate these tables with sample data, set up necessary foreign key relationships, create indices for performance optimization, and define several views for easier data retrieval.
-
-### Database Setup
-```sql
--- Database creation and table definitions here
